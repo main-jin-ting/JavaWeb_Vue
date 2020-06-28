@@ -71,7 +71,7 @@ JavaWeb是基于 SpringBoot2+Layui2.5.6+Thymeleaf++Shiro+MybatisPlus 研发的�
 [技术支持QQ：1175401194](http://wpa.qq.com/msgrd?v=3&amp;uin=1175401194&amp;site=qq&amp;menu=yes)
 
 ## 扫码咨询
-![一对一技术服务](http://images.vue.rxthink.cn/demo/qq.png)
+![一对一技术服务](http://images.vue.javaweb.vip/demo/qq.png)
 
 
 ### 版本说明
@@ -84,42 +84,44 @@ JavaWeb是基于 SpringBoot2+Layui2.5.6+Thymeleaf++Shiro+MybatisPlus 研发的�
 
 ## 效果图展示
 
-#### 0、系统登录
- ![系统登录](http://images.vue.rxthink.cn/demo/0.png)
+#### 系统登录
+ ![系统登录](http://images.vue.javaweb.vip/demo/0.png)
 
+#### 后台首页
+![后台首页](http://images.vue.javaweb.vip/demo/00.png)
 
-#### 1、人员管理
- ![人员管理](http://images.vue.rxthink.cn/demo/1.png)
+#### 人员管理
+ ![人员管理](http://images.vue.javaweb.vip/demo/1.png)
  
-#### 2、角色管理
- ![角色管理](http://images.vue.rxthink.cn/demo/2.png)
+#### 角色管理
+ ![角色管理](http://images.vue.javaweb.vip/demo/2.png)
  
-#### 3、部门管理
- ![部门管理](http://images.vue.rxthink.cn/demo/3.png)
+#### 部门管理
+ ![部门管理](http://images.vue.javaweb.vip/demo/3.png)
  
-#### 4、菜单管理
- ![菜单管理](http://images.vue.rxthink.cn/demo/4.png)
+#### 菜单管理
+ ![菜单管理](http://images.vue.javaweb.vip/demo/4.png)
  
-#### 5、城市管理
- ![城市管理](http://images.vue.rxthink.cn/demo/5.png)
+#### 城市管理
+ ![城市管理](http://images.vue.javaweb.vip/demo/5.png)
  
-#### 6、配置管理
- ![配置管理](http://images.vue.rxthink.cn/demo/6.png)
+#### 配置管理
+ ![配置管理](http://images.vue.javaweb.vip/demo/6.png)
  
-#### 7、通知公告
- ![通知公告](http://images.vue.rxthink.cn/demo/7.png)
+#### 通知公告
+ ![通知公告](http://images.vue.javaweb.vip/demo/7.png)
  
-#### 8、登录日志
- ![登录日志](http://images.vue.rxthink.cn/demo/8.png)
+#### 登录日志
+ ![登录日志](http://images.vue.javaweb.vip/demo/8.png)
  
-#### 9、操作日志
- ![操作日志](http://images.vue.rxthink.cn/demo/9.png)
+#### 操作日志
+ ![操作日志](http://images.vue.javaweb.vip/demo/9.png)
  
-#### 10、代码生成器
- ![代码生成器](http://images.vue.rxthink.cn/demo/10.png)
+#### 代码生成器
+ ![代码生成器](http://images.vue.javaweb.vip/demo/10.png)
  
- #### 11、项目结构
-  ![项目结构](http://images.vue.rxthink.cn/demo/11.png)
+ #### 项目结构
+  ![项目结构](http://images.vue.javaweb.vip/demo/11.png)
 
 
 ## 更新说明

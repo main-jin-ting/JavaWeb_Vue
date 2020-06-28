@@ -6,13 +6,13 @@
       router
       :default-active="$route.path"
       class="el-menu-vertical-demo left-menu"
-      background-color="#304156"
+      background-color="#001529"
       text-color="#bfcbd9"
-      active-text-color="#409EFF">
+      active-text-color="#1890ff">
       <el-menu-item style="text-align: center" index="/">
         <img style="width: 32px;height: 32px;margin-right: 8px;background: rgb(28,56,49)"
              src="../../assets/img/logo.png">
-        <span style="color: #fff;font-weight: 600;">JavaWeb后台框架</span>
+        <span style="color: #fff;font-weight: 600;">Vue标准版v1.0.0</span>
       </el-menu-item>
       <el-tooltip class="item" effect="dark" content="首页" placement="right">
         <el-menu-item index="/index">

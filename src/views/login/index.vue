@@ -43,9 +43,9 @@
       return {
         loginLoading:false,
         form:{
-          username:'',
-          password:'',
-          captcha:'',
+          username:'admin',
+          password:'123456',
+          captcha:'520',
           key:''
         },
         captchaImage:'',
