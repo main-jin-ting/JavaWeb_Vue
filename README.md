@@ -70,9 +70,6 @@ JavaWeb是基于 SpringBoot2+Layui2.5.6+Thymeleaf++Shiro+MybatisPlus 研发的�
 
 [技术支持QQ：1175401194](http://wpa.qq.com/msgrd?v=3&amp;uin=1175401194&amp;site=qq&amp;menu=yes)
 
-## 扫码咨询
-![一对一技术服务](http://images.vue.javaweb.vip/demo/qq.png)
-
 
 ### 版本说明
 
