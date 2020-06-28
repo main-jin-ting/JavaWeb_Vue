@@ -61,7 +61,7 @@ JavaWeb是基于 SpringBoot2+Layui2.5.6+Thymeleaf++Shiro+MybatisPlus 研发的�
 * 文档网址：[http://docs.javaweb.vip](http://docs.javaweb.vip)
 
 ## 后台演示（用户名:admin 密码:123456）
-- JavaWeb前后端分离：[http://javaweb.vue.rxthink.cn/](http://javaweb.vue.rxthink.cn/)
+- JavaWeb前后端分离：[http://manage.vue.javaweb.vip](http://manage.vue.javaweb.vip)
 - 登录用户名：admin
 - 登录密码：123456
 - 验证码：520
