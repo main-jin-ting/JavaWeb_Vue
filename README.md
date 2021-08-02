@@ -8,9 +8,6 @@
     <a href="http://mp.baomidou.com">
         <img src="https://img.shields.io/badge/mybatis--plus-3.0-blue.svg" alt="mybatis-plus">
     </a>  
-	<a href="http://www.javaweb.vip/">
-	    <img src="https://img.shields.io/badge/JavaWeb-v1.0.0-brightgreen.svg" />
-	</a>
 	<a href='https://gitee.com/javaweb520/JavaWeb_Vue/stargazers'>
 	    <img src='https://gitee.com/javaweb520/JavaWeb_Vue/badge/star.svg?theme=white' alt='star'></img>
 	</a>
@@ -27,7 +24,7 @@
 ### 本项目还在不断开发完善中,如有建议或问题请官方论坛反馈，论坛地址:http://www.javaweb.vip
 
 ### 项目介绍
-JavaWeb是基于 SpringBoot2+Layui2.5.6+element-ui++Shiro+MybatisPlus 研发的权限(RBAC)及内容管理系统，致力于做更简洁的后台管理框架，包含系统管理、代码生成、权限管理、站点、广告、布局、字段、配置等一系列常用的模块，整套系统一键生成所有模块（包括前端UI），一键实现CRUD，简化了传统手动抒写重复性代码的工作。
+JavaWeb是基于 SpringBoot2+Layui2.5.6+element-ui+Shiro+MybatisPlus 研发的权限(RBAC)及内容管理系统，致力于做更简洁的后台管理框架，包含系统管理、代码生成、权限管理、站点、广告、布局、字段、配置等一系列常用的模块，整套系统一键生成所有模块（包括前端UI），一键实现CRUD，简化了传统手动抒写重复性代码的工作。
 同时，框架提供长大量常规组件，如上传单图、上传多图、上传文件、下拉选择、复选框按钮、单选按钮，城市选择、富文本编辑器、权限颗粒度控制等高频使用的组件，代码简介，使用方便，节省了大量重复性的劳动，降低了开发成本，提高了整体开发效率，整体开发效率提交80%以上，JavaWeb框架专注于为中小企业提供最佳的行业基础后台框架解决方案，执行效率、扩展性、稳定性值得信赖，操作体验流畅，使用非常优化，欢迎大家使用及进行二次开发。
 
 * 模块化：全新的架构和模块化的开发机制，便于灵活扩展和二次开发。
@@ -75,7 +72,7 @@ JavaWeb是基于 SpringBoot2+Layui2.5.6+element-ui++Shiro+MybatisPlus 研发的�
 
 | 版本名称 | 说明 | 地址 |
 | :---: | :---: | :---: |
-| JavaWeb Vue后台 v1.0.0 | 前后端分离版，采用SpringBoot2+Vue | https://gitee.com/javaweb520/JavaWeb_Vue |
+| JavaWeb Vue后端 v1.0.0 | 前后端分离版，采用SpringBoot2+Vue | https://gitee.com/javaweb520/JavaWeb_Vue |
 | JavaWeb Vue前端 v1.0.0 | 前后端分离版，采用SpringBoot2+Vue | https://gitee.com/javaweb520/JavaWeb_Vue_UI |
 | JavaWeb 混编版 v1.0.0 | 采用SpringBoot2+Thymeleaf+layui | https://gitee.com/javaweb520/JavaWeb |
 
@@ -85,8 +82,8 @@ JavaWeb是基于 SpringBoot2+Layui2.5.6+element-ui++Shiro+MybatisPlus 研发的�
  ![系统登录](http://images.vue.javaweb.vip/demo/0.png)
 
 #### 后台首页
-![后台首页](http://images.vue.javaweb.vip/demo/00.png)
-
+ ![系统登录](http://images.vue.javaweb.vip/demo/00.png)
+ 
 #### 人员管理
  ![人员管理](http://images.vue.javaweb.vip/demo/1.png)
  
